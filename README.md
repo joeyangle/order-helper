@@ -1,7 +1,7 @@
 # order-helper
-a small program to parse data from dingdanzhushou
-目的：  
-  解决仓库订单抄写花费时间过长的问题，同时对订单记录保存。 
+a small program to parse data from dingdanzhushou    
+目的：   
+  解决仓库订单抄写花费时间过长的问题，同时对订单记录保存。  
 解决方式：  
   通过爬取订单助手上的订单数据，数据解析后通过本地局域网发布网页共享，通过手机浏览数据，以避免抄单所耗费的时间。
 
